@@ -1,0 +1,6 @@
+[submodule "MemorizingTrustManager"]
+	path = MemorizingTrustManager
+	url = git://github.com/ge0rg/MemorizingTrustManager.git
+[submodule "ActionBarSherlock"]
+	path = ActionBarSherlock
+	url = git://github.com/JakeWharton/ActionBarSherlock.git
